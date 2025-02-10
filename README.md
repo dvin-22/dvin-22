@@ -1,6 +1,6 @@
 <br><h2>🏫</h2>
 <h4>
-  -Donguk Univ.<br>
+  -Donguk Univ. 23<br>
   -Information Communication Engineering <br>
   -BE of CAPS programming club <br><br>
 </h4>
