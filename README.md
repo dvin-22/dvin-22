@@ -26,5 +26,5 @@
 <h2>🏆</h2>
 <h4>
   -2023 Adventure Design Contest 🥉<br>
-  -2024 IoT Intellectual Property Creative Idea Contest 🥇<br>
+  -2024 IoT Intellectual Property Creative Idea Contest 🥇<br><br>
 </h4>
