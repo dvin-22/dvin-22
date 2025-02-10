@@ -1,7 +1,8 @@
-<h2>🏫</h2>
+<br><h2>🏫</h2>
 <h4>
   -Donguk Univ.<br>
-  -Information Communication Engineering <br><br>
+  -Information Communication Engineering <br>
+  -BE of CAPS programming club <br>
 </h4>
 
 <h2>🖥</h2>
@@ -25,5 +26,5 @@
 <h2>🏆</h2>
 <h4>
   -2023 Adventure Design Contest 🥉<br>
-  -2024 IoT Intellectual Property Creative Idea Contest 🥇
+  -2024 IoT Intellectual Property Creative Idea Contest 🥇<br>
 </h4>
