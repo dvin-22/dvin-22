@@ -2,7 +2,7 @@
 <h4>
   -Donguk Univ.<br>
   -Information Communication Engineering <br>
-  -BE of CAPS programming club <br>
+  -BE of CAPS programming club <br><br>
 </h4>
 
 <h2>🖥</h2>
